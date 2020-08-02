@@ -1,0 +1,6 @@
+Keras=2.2.4
+Tensorflow-gpu=1.10.1
+scikit-learn
+librosa
+joblib
+wavefile
